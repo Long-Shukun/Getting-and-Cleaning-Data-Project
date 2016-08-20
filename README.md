@@ -1,5 +1,5 @@
 #Getting and Cleaning Data Project
-This file shows how all of the script work.  
+This file shows how all of the scripts work.  
 * Set your working directory.
 * Create a directory './data'.
 * Download the original data from 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip' and then unzip it. Save the data in the directory './data' which you've just created.  
