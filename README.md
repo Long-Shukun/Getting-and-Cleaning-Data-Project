@@ -9,5 +9,10 @@ This file shows how all of the scripts work.
 * Create an R script and save it in your working directory(the same directory with the directory './data').
 * Load these data into Rstdio: 'X_train.txt', 'y_train.txt', 'subject_train.txt', 'X_test.txt', 'y_test.txt', 'subject_test.txt'.
 * Install the package 'dplyr'.
-* Run the R code. Then you can merge these data sets, extract measurements on mean and std, replace activity labels with activity names, appropriately name the columns and create a second tidy data.
-* Finnaly, write the tidy data in your working directory.
+* Run the R code. Then you can  
+ + merge these data sets，
+ + extract measurements on mean and std，
+ + replace activity labels with activity names，
+ + appropriately name the columns，
+ + create a second tidy data.
+* Finnaly, write the tidy data you've just got in your working directory.
