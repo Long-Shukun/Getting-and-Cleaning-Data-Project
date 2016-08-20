@@ -69,5 +69,5 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 * Read 'activity_labels.txt' into Rstdio, which contains the activity names.
 * Replace the activity labels(1-6) with the activity names using the function 'factor'.
 * Name the columns in the data set and then refine some of the names. For instance, change '^t'(or '^f') into 'TimeDomain-'(or 'FrequencyDomain-') and change 'mean()'(or 'std()') into 'Mean'(or 'Std').
-* Create the second tidy data set using functions 'group_by' and 'summarise' in the package 'dplry'.
+* Create the second tidy data set using functions 'group_by' and 'summarise' in the package 'dplyr'.
 * Write the new tidy data.
