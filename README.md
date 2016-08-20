@@ -15,4 +15,4 @@ This file shows how all of the scripts work.
  + replace activity labels with activity names，
  + appropriately name the columns，
  + create a second tidy data.
-* Finnaly, write the tidy data you've just got in your working directory.
+* Finnaly, write the tidy data you've just got into your working directory.
