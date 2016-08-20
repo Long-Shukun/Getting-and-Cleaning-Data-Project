@@ -70,3 +70,4 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 * Replace the activity labels(1-6) with the activity names using the function 'factor'.
 * Name the columns in the data set and then refine some of the names. For instance, change '^t'(or '^f') into 'TimeDomain-'(or 'FrequencyDomain-') and change 'mean()'(or 'std()') into 'Mean'(or 'Std').
 * Create the second tidy data set using functions 'group_by' and 'summarise' in the package 'dplry'.
+* Write the new tidy data.
