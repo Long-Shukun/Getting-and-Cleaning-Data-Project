@@ -1,7 +1,7 @@
 #Getting and Cleaning Data Project
 This file shows how all of the scripts work.  
 * Set your working directory.
-* Create a directory './data'.
+* Create a directory './data' in your working directory.
 * Download the original data from 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip' and then unzip it. Save the data in the directory './data' which you've just created.  
 
 *You can do the above with the code in the 'run_analysis.R' or you can do it mannually.*  
